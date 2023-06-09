@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3500d0d87b0262545b0b16daca668f6f
+guid: 1c8a3c52d514dc144b19c7bc5dac5760
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,43 +105,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Course2_0
+      name: Rocks2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 4
-        width: 208
-        height: 196
+        x: 2
+        y: 56
+        width: 31
+        height: 28
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8ef700c591646243a158bea2efb4ac0
-      internalID: -523650314
+      spriteID: d062952e36df66547a798759fc819467
+      internalID: -1736999314
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Course2_1
+      name: Rocks2_1
       rect:
         serializedVersion: 2
-        x: 211
-        y: 0
-        width: 219
-        height: 208
+        x: 41
+        y: 42
+        width: 34
+        height: 40
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 705fe70c00fb62c488951fdf28fd0162
-      internalID: -1119226327
+      spriteID: dd69b4f856ca46245a0d457479aad31c
+      internalID: -1515755550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks2_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c87f25940d1c84596480f3e9a277f4
+      internalID: 1673380324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks2_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 6
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb52baedfd388241b128689768373db
+      internalID: 1456685323
       vertices: []
       indices: 
       edges: []
@@ -155,12 +197,12 @@ TextureImporter:
     indices: 
     edges: []
     weights: []
-    secondaryTextures:
-    - texture: {fileID: 2800000, guid: 239fffbeccb0eb84d8e1d2c4c9dff6b3, type: 3}
-      name: _Emission
+    secondaryTextures: []
     nameFileIdTable:
-      Course2_0: -523650314
-      Course2_1: -1119226327
+      Rocks2_3: 1456685323
+      Rocks2_1: -1515755550
+      Rocks2_0: -1736999314
+      Rocks2_2: 1673380324
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
